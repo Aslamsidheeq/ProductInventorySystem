@@ -1,0 +1,40 @@
+﻿@page "/"
+@using Frontend.Dtos
+@inject HttpClient http
+@inject NavigationManager Navigation
+
+
+<PageTitle>Home</PageTitle>
+
+<h2 class=" p-2 rounded ">Add stock using Id here :</h2>
+
+<EditForm Model="_stockDto" OnValidSubmit="HandleValidSubmit">
+        <div class="form-group m-3 w-50">
+
+            <label>Id:</label>
+            <InputText class="form-control" @bind-Value="stringId"/>
+
+        </div>
+        <div class="form-group m-3 w-50">
+
+            <label>Quantity:</label>
+            <InputNumber class="form-control" @bind-Value="_stockDto.Stock"/>
+
+        </div>
+        <button type="submit" class="btn btn-primary m-3">Add Stock</button>
+</EditForm>
+
+@code{
+    private StockRequestDto _stockDto = new StockRequestDto();
+    private string stringId { get; set; } = string.Empty;
+
+    private void HandleValidSubmit()
+    {
+        if(Guid.TryParse(stringId,out var subVarId))
+        {
+            _stockDto.SubVariantId = subVarId;
+        }
+        http.PostAsJsonAsync("addStock", _stockDto);
+    }
+
+}

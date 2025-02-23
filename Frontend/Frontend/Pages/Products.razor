@@ -1,0 +1,52 @@
+﻿@page "/products"
+@using Frontend.Dtos
+@using Frontend.Models
+@inject HttpClient http
+<h3>Products</h3>
+
+<table>
+    <thead>
+        <tr>
+            <th>Product Name</th>
+            <th>Variants</th>
+         </tr>
+    </thead>
+    <tbody>
+        @foreach(var product in products)
+        {
+            <tr>
+                <td>@product.ProductName</td>
+                <td>
+                    <ul>
+                        @foreach(var variant in product.Variants)
+                        {
+                            <li>@variant.VariantName
+                            <ul>
+                                @foreach(var subVariant in variant.SubVariants)
+                                {
+                                    <li>@subVariant.SubVariantName </li>
+                                }
+                            </ul>
+                            </li>
+
+                        }
+                    </ul>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@code {
+    private List<Product> products = new();
+
+    public Products(List<Product> products)
+    {
+        this.products = products;
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        products = await http.GetFromJsonAsync<List<Product>>("products");
+    }
+}

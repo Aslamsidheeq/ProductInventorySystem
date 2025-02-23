@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "Inventory_system.Controllers.ProductController",
+    "Method": "AddStock",
+    "RelativePath": "AddStock",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "AddStock",
+        "Type": "Inventory_system.Dtos.StockRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Inventory_system.Controllers.ProductController",
+    "Method": "CreateProduct",
+    "RelativePath": "CreateProduct",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "product",
+        "Type": "Inventory_system.Dtos.ProductDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Inventory_system.Controllers.ProductController",
+    "Method": "ListProducts",
+    "RelativePath": "Products",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Inventory_system.Controllers.ProductController",
+    "Method": "RemoveStock",
+    "RelativePath": "RemoveStock",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "RemoveStock",
+        "Type": "Inventory_system.Dtos.StockRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
