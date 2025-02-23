@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ugkRp3Vpo+o=",
+  "dgSpecHash": "ds7GyWgXoIk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\aslam\\source\\repos\\Frontend\\Frontend\\Frontend.csproj",
+  "projectFilePath": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Frontend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aslam\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.13\\microsoft.aspnetcore.authorization.8.0.13.nupkg.sha512",
     "C:\\Users\\aslam\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.13\\microsoft.aspnetcore.components.8.0.13.nupkg.sha512",

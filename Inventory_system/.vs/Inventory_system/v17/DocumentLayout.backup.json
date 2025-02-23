@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\aslam\\source\\repos\\Inventory_system\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AA234F91-01FE-47E7-8218-F3C28F4283A8}|Inventory_system\\Inventory_system.csproj|c:\\users\\aslam\\source\\repos\\inventory_system\\inventory_system\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA234F91-01FE-47E7-8218-F3C28F4283A8}|Inventory_system\\Inventory_system.csproj|solutionrelative:inventory_system\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AA234F91-01FE-47E7-8218-F3C28F4283A8}|Inventory_system\\Inventory_system.csproj|c:\\users\\aslam\\source\\repos\\inventory_system\\inventory_system\\models\\inventorysystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA234F91-01FE-47E7-8218-F3C28F4283A8}|Inventory_system\\Inventory_system.csproj|solutionrelative:inventory_system\\models\\inventorysystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -12,10 +16,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AA234F91-01FE-47E7-8218-F3C28F4283A8}|Inventory_system\\Inventory_system.csproj|c:\\users\\aslam\\source\\repos\\inventory_system\\inventory_system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{AA234F91-01FE-47E7-8218-F3C28F4283A8}|Inventory_system\\Inventory_system.csproj|solutionrelative:inventory_system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA234F91-01FE-47E7-8218-F3C28F4283A8}|Inventory_system\\Inventory_system.csproj|c:\\users\\aslam\\source\\repos\\inventory_system\\inventory_system\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA234F91-01FE-47E7-8218-F3C28F4283A8}|Inventory_system\\Inventory_system.csproj|solutionrelative:inventory_system\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA234F91-01FE-47E7-8218-F3C28F4283A8}|Inventory_system\\Inventory_system.csproj|c:\\users\\aslam\\source\\repos\\inventory_system\\inventory_system\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,18 +62,6 @@
       "RelativeMoniker": "D:0:0:{AA234F91-01FE-47E7-8218-F3C28F4283A8}|Inventory_system\\Inventory_system.csproj|solutionrelative:inventory_system\\dtos\\stockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B71D617E-67BB-47E3-BF3B-FEEAEE7E3232}|InventorySystemFrontend\\InventorySystemFrontend.csproj|c:\\users\\aslam\\source\\repos\\inventory_system\\inventorysystemfrontend\\dtos\\stockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B71D617E-67BB-47E3-BF3B-FEEAEE7E3232}|InventorySystemFrontend\\InventorySystemFrontend.csproj|solutionrelative:inventorysystemfrontend\\dtos\\stockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B71D617E-67BB-47E3-BF3B-FEEAEE7E3232}|InventorySystemFrontend\\InventorySystemFrontend.csproj|c:\\users\\aslam\\source\\repos\\inventory_system\\inventorysystemfrontend\\dtos\\subvariantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B71D617E-67BB-47E3-BF3B-FEEAEE7E3232}|InventorySystemFrontend\\InventorySystemFrontend.csproj|solutionrelative:inventorysystemfrontend\\dtos\\subvariantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B71D617E-67BB-47E3-BF3B-FEEAEE7E3232}|InventorySystemFrontend\\InventorySystemFrontend.csproj|c:\\users\\aslam\\source\\repos\\inventory_system\\inventorysystemfrontend\\dtos\\variantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B71D617E-67BB-47E3-BF3B-FEEAEE7E3232}|InventorySystemFrontend\\InventorySystemFrontend.csproj|solutionrelative:inventorysystemfrontend\\dtos\\variantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AA234F91-01FE-47E7-8218-F3C28F4283A8}|Inventory_system\\Inventory_system.csproj|c:\\users\\aslam\\source\\repos\\inventory_system\\inventory_system\\inventory_system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{AA234F91-01FE-47E7-8218-F3C28F4283A8}|Inventory_system\\Inventory_system.csproj|solutionrelative:inventory_system\\inventory_system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -89,7 +77,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -97,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProductInventoryDBContext.cs",
               "DocumentMoniker": "C:\\Users\\aslam\\OneDrive\\Desktop\\ProductInventoryAPI\\ProductInventoryClassLibrary\\Models\\ProductInventoryDBContext.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Desktop\\ProductInventoryAPI\\ProductInventoryClassLibrary\\Models\\ProductInventoryDBContext.cs",
@@ -105,18 +93,17 @@
               "RelativeToolTip": "..\\..\\..\\OneDrive\\Desktop\\ProductInventoryAPI\\ProductInventoryClassLibrary\\Models\\ProductInventoryDBContext.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T17:04:32.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T17:04:32.292Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\Inventory_system\\Inventory_system\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Inventory_system\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\aslam\\source\\repos\\Inventory_system\\Inventory_system\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Inventory_system\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAgwBgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAsAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-22T03:13:16.088Z",
               "EditorCaption": ""
@@ -131,12 +118,11 @@
               "RelativeToolTip": "Inventory_system\\Services\\IProductService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T03:50:01.244Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T03:50:01.244Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "InventorySystemContext.cs",
               "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\Inventory_system\\Inventory_system\\Models\\InventorySystemContext.cs",
               "RelativeDocumentMoniker": "Inventory_system\\Models\\InventorySystemContext.cs",
@@ -149,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\Inventory_system\\Inventory_system\\appsettings.json",
               "RelativeDocumentMoniker": "Inventory_system\\appsettings.json",
@@ -157,8 +143,7 @@
               "RelativeToolTip": "Inventory_system\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-22T03:11:16.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T03:11:16.809Z"
             },
             {
               "$type": "Document",
@@ -170,8 +155,7 @@
               "RelativeToolTip": "Inventory_system\\Program.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAvwCgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T03:03:01.335Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T03:03:01.335Z"
             },
             {
               "$type": "Document",
@@ -183,8 +167,7 @@
               "RelativeToolTip": "Inventory_system\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T03:12:23.244Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T03:12:23.244Z"
             },
             {
               "$type": "Document",
@@ -196,8 +179,7 @@
               "RelativeToolTip": "Inventory_system\\Services\\ProductService.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAA1wEgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T03:50:15.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T03:50:15.389Z"
             },
             {
               "$type": "Document",
@@ -209,8 +191,7 @@
               "RelativeToolTip": "Inventory_system\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T03:24:28.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T03:24:28.125Z"
             },
             {
               "$type": "Document",
@@ -222,8 +203,7 @@
               "RelativeToolTip": "Inventory_system\\Models\\Variant.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T03:27:53.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T03:27:53.627Z"
             },
             {
               "$type": "Document",
@@ -235,8 +215,7 @@
               "RelativeToolTip": "Inventory_system\\Models\\SubVariant.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T03:28:30.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T03:28:30.749Z"
             },
             {
               "$type": "Document",
@@ -248,20 +227,7 @@
               "RelativeToolTip": "Inventory_system\\Dtos\\SubVariantDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T03:28:47.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "VariantDto.cs",
-              "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\Inventory_system\\InventorySystemFrontend\\Dtos\\VariantDto.cs",
-              "RelativeDocumentMoniker": "InventorySystemFrontend\\Dtos\\VariantDto.cs",
-              "ToolTip": "C:\\Users\\aslam\\source\\repos\\Inventory_system\\InventorySystemFrontend\\Dtos\\VariantDto.cs",
-              "RelativeToolTip": "InventorySystemFrontend\\Dtos\\VariantDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T08:50:53.937Z"
+              "WhenOpened": "2025-02-22T03:28:47.688Z"
             },
             {
               "$type": "Document",
@@ -273,8 +239,7 @@
               "RelativeToolTip": "Inventory_system\\Dtos\\StockRequestDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T04:58:01.416Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T04:58:01.416Z"
             },
             {
               "$type": "Document",
@@ -286,8 +251,7 @@
               "RelativeToolTip": "Inventory_system\\Dtos\\ProductDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T03:26:00.967Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T03:26:00.967Z"
             },
             {
               "$type": "Document",
@@ -299,36 +263,11 @@
               "RelativeToolTip": "Inventory_system\\Dtos\\VariantDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T03:27:45.104Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "SubVariantDto.cs",
-              "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\Inventory_system\\InventorySystemFrontend\\Dtos\\SubVariantDto.cs",
-              "RelativeDocumentMoniker": "InventorySystemFrontend\\Dtos\\SubVariantDto.cs",
-              "ToolTip": "C:\\Users\\aslam\\source\\repos\\Inventory_system\\InventorySystemFrontend\\Dtos\\SubVariantDto.cs",
-              "RelativeToolTip": "InventorySystemFrontend\\Dtos\\SubVariantDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T08:51:26.456Z"
+              "WhenOpened": "2025-02-22T03:27:45.104Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "StockRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\Inventory_system\\InventorySystemFrontend\\Dtos\\StockRequestDto.cs",
-              "RelativeDocumentMoniker": "InventorySystemFrontend\\Dtos\\StockRequestDto.cs",
-              "ToolTip": "C:\\Users\\aslam\\source\\repos\\Inventory_system\\InventorySystemFrontend\\Dtos\\StockRequestDto.cs",
-              "RelativeToolTip": "InventorySystemFrontend\\Dtos\\StockRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T08:51:57.563Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
               "Title": "Inventory_system.csproj",
               "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\Inventory_system\\Inventory_system\\Inventory_system.csproj",
               "RelativeDocumentMoniker": "Inventory_system\\Inventory_system.csproj",
@@ -340,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 16,
               "Title": "Inventory_system.http",
               "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\Inventory_system\\Inventory_system\\Inventory_system.http",
               "RelativeDocumentMoniker": "Inventory_system\\Inventory_system.http",

@@ -8,18 +8,28 @@ namespace Inventory_system.Services
 {
     public class ProductService:IProductService
     {
+
+        // to be Replaced - synchronous database operations with asynchronous 
+      
+
         private readonly InventorySystemContext _context;
         public ProductService(InventorySystemContext context)
         {
             _context = context;
+            //logging to be added - to track errors and events
         }
+        //creates a new product with variants and sub variants
         public Product CreateProduct(ProductDto productDto)
         {
+            if (productDto == null)
+            {
+                throw new ArgumentNullException("Product data cannot be null.");
+            }
             var product = new Product()
             {
                 Id = Guid.NewGuid(),
                 ProductName = productDto.ProductName,
-                ProductCode = "XU2",
+                ProductCode = "XU2", //just hardcoded sample
                 CreatedDate = DateTimeOffset.UtcNow,
                 UpdatedDate = DateTimeOffset.UtcNow
             };
@@ -34,40 +44,50 @@ namespace Inventory_system.Services
                     {
                         Id = Guid.NewGuid(),
                         SubVariantName = o.SubVariantName,
-                        Stock = 0
+                        Stock = 0 //default value at start
                     }).ToList()
                 };
                 product.Variants.Add(variant);
             }
+            try
+            {
             _context.Products.Add(product);
             _context.SaveChanges();
             return product;
+            }
+            catch
+            {
+                throw new ApplicationException("An error occurred on creating product");
+            }
         }
+        // add stock qunatity to sub variant
         public async Task AddStock([FromBody]StockRequestDto addStock)
         {
             var subVar =  _context.SubVariants.Find(addStock.SubVariantId);
             if (subVar == null)
             {
-                return ;
+                throw new ArgumentNullException("Subvariant not found");
             }
             subVar.Stock += addStock.Stock;
-             await _context.SaveChangesAsync();
+            await _context.SaveChangesAsync();
         }
+        //to remove/decrease stock qunatity - similar to AddStock
         public void RemoveStock([FromBody] StockRequestDto addStock)
         {
             var subVar = _context.SubVariants.Find(addStock.SubVariantId);
             if (subVar == null)
             {
-                return;
+                throw new ArgumentNullException("Subvariant not found");
             }
             subVar.Stock -= addStock.Stock;
             _context.SaveChangesAsync();
         }
+        //List all products with variants and sub variants
         public List<Product> ListProducts()
         {
             var products = _context.Products.Include(p => p.Variants)
             .ThenInclude(v => v.SubVariants)
-        .ToList();
+            .ToList();
             return products;
         }
 
