@@ -77,11 +77,11 @@ namespace Inventory_system.Controllers
 
         //To list available products with variants and sub-variants
         [HttpGet("Products")]
-        public IActionResult ListProducts()
+        public async Task<IActionResult> ListProducts()
         {
             try
             {
-            var products = _service.ListProducts();
+            var products = await _service.ListProducts();
             return Ok(products);
             }
             catch (Exception ex)

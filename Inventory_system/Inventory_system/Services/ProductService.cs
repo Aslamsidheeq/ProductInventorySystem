@@ -83,11 +83,25 @@ namespace Inventory_system.Services
             _context.SaveChangesAsync();
         }
         //List all products with variants and sub variants
-        public List<Product> ListProducts()
+        public async Task<List<ProductDto>> ListProducts()
         {
-            var products = _context.Products.Include(p => p.Variants)
+            var products = await _context.Products.Include(p => p.Variants)
             .ThenInclude(v => v.SubVariants)
-            .ToList();
+            .Select(p => new ProductDto
+            {
+
+                ProductName = p.ProductName,
+
+                Variants = p.Variants.Select(v => new VariantDto
+                {
+                    VariantName = v.VariantName,
+                    SubVariants = v.SubVariants.Select(sv => new SubVariantDto
+                    {
+                        SubVariantName = sv.SubVariantName,
+                    }).ToList()
+                }).ToList()
+            })
+            .ToListAsync();
             return products;
         }
 

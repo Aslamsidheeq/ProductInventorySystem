@@ -9,7 +9,7 @@ namespace Inventory_system.Services
         public Product CreateProduct(ProductDto productDto);
         public Task AddStock(StockRequestDto addStock);
         public void RemoveStock(StockRequestDto addStock);
-        public List<Product> ListProducts();
+        public Task<List<ProductDto>> ListProducts();
 
     }
 }

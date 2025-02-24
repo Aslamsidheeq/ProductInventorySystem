@@ -82,9 +82,9 @@
               "Title": "Products.razor",
               "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Pages\\Products.razor",
               "RelativeDocumentMoniker": "Frontend\\Pages\\Products.razor",
-              "ToolTip": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Pages\\Products.razor*",
-              "RelativeToolTip": "Frontend\\Pages\\Products.razor*",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Pages\\Products.razor",
+              "RelativeToolTip": "Frontend\\Pages\\Products.razor",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAD4AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-23T12:53:48.316Z",
               "EditorCaption": ""
@@ -99,8 +99,7 @@
               "RelativeToolTip": "Frontend\\Pages\\AddProduct.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-23T18:09:52.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T18:09:52.197Z"
             },
             {
               "$type": "Document",
@@ -148,8 +147,7 @@
               "RelativeToolTip": "Frontend\\Pages\\RemoveStock.razor",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-23T14:29:08.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T14:29:08.871Z"
             },
             {
               "$type": "Document",
