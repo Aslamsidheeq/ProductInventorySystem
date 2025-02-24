@@ -3,7 +3,7 @@
 @using Frontend.Models
 @inject HttpClient http
 <h3>Products</h3>
-
+<p class="text-danger">@errorMessage</p>
 <table>
     <thead>
         <tr>
@@ -40,6 +40,20 @@
 @code {
     private List<Product> products = new();
 
+    public Products(string errorMessage)
+    {
+        this.errorMessage = errorMessage;
+    }
+    public Products()
+    {
+    }
+
+    public Products(HttpClient http)
+    {
+        this.http = http;
+    }
+    private string errorMessage = string.Empty;
+
     public Products(List<Product> products)
     {
         this.products = products;
@@ -47,6 +61,13 @@
 
     protected override async Task OnInitializedAsync()
     {
-        products = await http.GetFromJsonAsync<List<Product>>("products");
+        try{
+            products = await http.GetFromJsonAsync<List<Product>>("products");
+        }
+        catch(HttpRequestException ex)
+        {
+            errorMessage = $"Error in fetching products:{ex.Message}";
+        }
+
     }
 }

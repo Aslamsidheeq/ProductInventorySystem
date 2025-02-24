@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|c:\\users\\aslam\\source\\repos\\productinventorysystem\\frontend\\frontend\\pages\\removestock.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|solutionrelative:frontend\\pages\\removestock.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|c:\\users\\aslam\\source\\repos\\productinventorysystem\\frontend\\frontend\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|solutionrelative:frontend\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|c:\\users\\aslam\\source\\repos\\productinventorysystem\\frontend\\frontend\\pages\\addproduct.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|solutionrelative:frontend\\pages\\addproduct.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|c:\\users\\aslam\\source\\repos\\productinventorysystem\\frontend\\frontend\\pages\\removestock.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|solutionrelative:frontend\\pages\\removestock.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|c:\\users\\aslam\\source\\repos\\productinventorysystem\\frontend\\frontend\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|c:\\users\\aslam\\source\\repos\\productinventorysystem\\frontend\\frontend\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|solutionrelative:frontend\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|c:\\users\\aslam\\source\\repos\\productinventorysystem\\frontend\\frontend\\pages\\addproduct.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|solutionrelative:frontend\\pages\\addproduct.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|c:\\users\\aslam\\source\\repos\\productinventorysystem\\frontend\\frontend\\dtos\\subvariantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,28 +70,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "Frontend\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "Frontend\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-23T18:10:06.594Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "Products.razor",
+              "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Pages\\Products.razor",
+              "RelativeDocumentMoniker": "Frontend\\Pages\\Products.razor",
+              "ToolTip": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Pages\\Products.razor",
+              "RelativeToolTip": "Frontend\\Pages\\Products.razor",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T12:53:48.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AddProduct.razor",
               "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Pages\\AddProduct.razor",
               "RelativeDocumentMoniker": "Frontend\\Pages\\AddProduct.razor",
@@ -104,19 +104,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Products.razor",
-              "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Pages\\Products.razor",
-              "RelativeDocumentMoniker": "Frontend\\Pages\\Products.razor",
-              "ToolTip": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Pages\\Products.razor",
-              "RelativeToolTip": "Frontend\\Pages\\Products.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-23T12:53:48.316Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
               "Title": "SubVariantDto.cs",
               "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Dtos\\SubVariantDto.cs",
@@ -125,8 +112,7 @@
               "RelativeToolTip": "Frontend\\Dtos\\SubVariantDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T12:55:54.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T12:55:54.628Z"
             },
             {
               "$type": "Document",
@@ -154,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "RemoveStock.razor",
               "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Pages\\RemoveStock.razor",
               "RelativeDocumentMoniker": "Frontend\\Pages\\RemoveStock.razor",
@@ -167,7 +153,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Frontend\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Frontend\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T18:10:06.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Frontend\\Pages\\Home.razor",
@@ -175,8 +173,7 @@
               "RelativeToolTip": "Frontend\\Pages\\Home.razor",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-23T09:25:53.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T09:25:53.897Z"
             },
             {
               "$type": "Document",

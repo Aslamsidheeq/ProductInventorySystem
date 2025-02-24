@@ -1,43 +1,43 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\aslam\\source\\repos\\Frontend\\Frontend\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "C:\\Users\\aslam\\source\\repos\\Frontend\\Frontend\\obj\\Debug\\net8.0\\compressed\\9xanj88thg.gz",
+      "Id": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\obj\\Debug\\net8.0\\compressed\\9xanj88thg.gz",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
-      "Id": "C:\\Users\\aslam\\source\\repos\\Frontend\\Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Frontend.styles.css",
+      "Id": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Frontend.styles.css",
       "PackagePath": "staticwebassets\\Frontend.styles.css"
     },
     {
-      "Id": "C:\\Users\\aslam\\source\\repos\\Frontend\\Frontend\\wwwroot\\css\\app.css",
+      "Id": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Users\\aslam\\source\\repos\\Frontend\\Frontend\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\aslam\\source\\repos\\Frontend\\Frontend\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\aslam\\source\\repos\\Frontend\\Frontend\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\aslam\\source\\repos\\Frontend\\Frontend\\wwwroot\\icon-192.png",
+      "Id": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\wwwroot\\icon-192.png",
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
-      "Id": "C:\\Users\\aslam\\source\\repos\\Frontend\\Frontend\\wwwroot\\index.html",
+      "Id": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\aslam\\source\\repos\\Frontend\\Frontend\\wwwroot\\sample-data\\weather.json",
+      "Id": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\wwwroot\\sample-data\\weather.json",
       "PackagePath": "staticwebassets\\sample-data\\weather.json"
     },
     {
