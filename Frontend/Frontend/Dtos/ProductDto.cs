@@ -3,6 +3,6 @@
     public class ProductDto
     {
         public string ProductName { get; set; } = null!;
-        public virtual ICollection<VariantDto> Variants { get; set; } = new List<VariantDto>();
+        public virtual List<VariantDto> Variants { get; set; } = new List<VariantDto>();
     }
 }

@@ -7,7 +7,7 @@ namespace Inventory_system.Models;
 
 public partial class InventorySystemContext : DbContext
 {
-    private IConfiguration _configuration;
+    //private IConfiguration _configuration;
 
     public InventorySystemContext()
     {
@@ -28,7 +28,7 @@ public partial class InventorySystemContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     { 
-        optionsBuilder.UseSqlServer(_configuration.GetConnectionString("DefaultConnection"));
+        optionsBuilder.UseSqlServer("Data Source=LAPTOP-5M9L3AJN\\MSSQLSERVER02;Initial Catalog=InventorySystem;Integrated Security=True;Trust Server Certificate=True");
     }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)

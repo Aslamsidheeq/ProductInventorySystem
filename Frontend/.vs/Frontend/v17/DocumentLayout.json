@@ -7,28 +7,44 @@
       "RelativeMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|solutionrelative:frontend\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|c:\\users\\aslam\\source\\repos\\productinventorysystem\\frontend\\frontend\\pages\\addproduct.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|solutionrelative:frontend\\pages\\addproduct.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|c:\\users\\aslam\\source\\repos\\productinventorysystem\\frontend\\frontend\\pages\\removestock.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|solutionrelative:frontend\\pages\\removestock.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|c:\\users\\aslam\\source\\repos\\productinventorysystem\\frontend\\frontend\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|solutionrelative:frontend\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|c:\\users\\aslam\\source\\repos\\productinventorysystem\\frontend\\frontend\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|solutionrelative:frontend\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|c:\\users\\aslam\\source\\repos\\productinventorysystem\\frontend\\frontend\\dtos\\stockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|solutionrelative:frontend\\dtos\\stockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|c:\\users\\aslam\\source\\repos\\productinventorysystem\\frontend\\frontend\\dtos\\subvariantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|solutionrelative:frontend\\dtos\\subvariantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|c:\\users\\aslam\\source\\repos\\productinventorysystem\\frontend\\frontend\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|solutionrelative:frontend\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|c:\\users\\aslam\\source\\repos\\productinventorysystem\\frontend\\frontend\\dtos\\variantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|solutionrelative:frontend\\dtos\\variantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|c:\\users\\aslam\\source\\repos\\productinventorysystem\\frontend\\frontend\\pages\\addproduct.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|solutionrelative:frontend\\pages\\addproduct.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|c:\\users\\aslam\\source\\repos\\productinventorysystem\\frontend\\frontend\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|solutionrelative:frontend\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|c:\\users\\aslam\\source\\repos\\productinventorysystem\\frontend\\frontend\\pages\\removestock.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|solutionrelative:frontend\\pages\\removestock.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|c:\\users\\aslam\\source\\repos\\productinventorysystem\\frontend\\frontend\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|solutionrelative:frontend\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|c:\\users\\aslam\\source\\repos\\productinventorysystem\\frontend\\frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|solutionrelative:frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|c:\\users\\aslam\\source\\repos\\productinventorysystem\\frontend\\frontend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,24 +59,12 @@
       "RelativeMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|solutionrelative:frontend\\models\\subvariant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|c:\\users\\aslam\\source\\repos\\productinventorysystem\\frontend\\frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|solutionrelative:frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|c:\\users\\aslam\\source\\repos\\productinventorysystem\\frontend\\frontend\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|solutionrelative:frontend\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|c:\\users\\aslam\\source\\repos\\productinventorysystem\\frontend\\frontend\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|solutionrelative:frontend\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|c:\\users\\aslam\\source\\repos\\productinventorysystem\\frontend\\frontend\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|solutionrelative:frontend\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|c:\\users\\aslam\\source\\repos\\productinventorysystem\\frontend\\frontend\\dtos\\stockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3A1D43B-C67A-4C4B-8211-4EA584C776F1}|Frontend\\Frontend.csproj|solutionrelative:frontend\\dtos\\stockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -84,26 +88,14 @@
               "RelativeDocumentMoniker": "Frontend\\Pages\\Products.razor",
               "ToolTip": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Pages\\Products.razor",
               "RelativeToolTip": "Frontend\\Pages\\Products.razor",
-              "ViewState": "AgIAADQAAAAAAAAAAAAAAD4AAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBoAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-23T12:53:48.316Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AddProduct.razor",
-              "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Pages\\AddProduct.razor",
-              "RelativeDocumentMoniker": "Frontend\\Pages\\AddProduct.razor",
-              "ToolTip": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Pages\\AddProduct.razor",
-              "RelativeToolTip": "Frontend\\Pages\\AddProduct.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-23T18:09:52.197Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "SubVariantDto.cs",
               "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Dtos\\SubVariantDto.cs",
               "RelativeDocumentMoniker": "Frontend\\Dtos\\SubVariantDto.cs",
@@ -111,23 +103,126 @@
               "RelativeToolTip": "Frontend\\Dtos\\SubVariantDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T12:55:54.628Z"
+              "WhenOpened": "2025-02-23T12:55:54.628Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "VariantDto.cs",
               "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Dtos\\VariantDto.cs",
               "RelativeDocumentMoniker": "Frontend\\Dtos\\VariantDto.cs",
               "ToolTip": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Dtos\\VariantDto.cs",
               "RelativeToolTip": "Frontend\\Dtos\\VariantDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T12:55:24.703Z"
+              "WhenOpened": "2025-02-23T12:55:24.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StockRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Dtos\\StockRequestDto.cs",
+              "RelativeDocumentMoniker": "Frontend\\Dtos\\StockRequestDto.cs",
+              "ToolTip": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Dtos\\StockRequestDto.cs",
+              "RelativeToolTip": "Frontend\\Dtos\\StockRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T10:06:28.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Dtos\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Frontend\\Dtos\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Dtos\\ProductDto.cs",
+              "RelativeToolTip": "Frontend\\Dtos\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T12:55:05.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Frontend\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Pages\\Home.razor",
+              "RelativeToolTip": "Frontend\\Pages\\Home.razor",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T09:25:53.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Frontend\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Services\\ProductService.cs",
+              "RelativeToolTip": "Frontend\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T06:36:49.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Program.cs",
+              "RelativeDocumentMoniker": "Frontend\\Program.cs",
+              "ToolTip": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Program.cs",
+              "RelativeToolTip": "Frontend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T10:25:17.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Frontend\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Frontend\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T18:10:06.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddProduct.razor",
+              "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Pages\\AddProduct.razor",
+              "RelativeDocumentMoniker": "Frontend\\Pages\\AddProduct.razor",
+              "ToolTip": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Pages\\AddProduct.razor",
+              "RelativeToolTip": "Frontend\\Pages\\AddProduct.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T18:09:52.197Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "RemoveStock.razor",
+              "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Pages\\RemoveStock.razor",
+              "RelativeDocumentMoniker": "Frontend\\Pages\\RemoveStock.razor",
+              "ToolTip": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Pages\\RemoveStock.razor",
+              "RelativeToolTip": "Frontend\\Pages\\RemoveStock.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T14:29:08.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Variant.cs",
               "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Models\\Variant.cs",
               "RelativeDocumentMoniker": "Frontend\\Models\\Variant.cs",
@@ -139,43 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RemoveStock.razor",
-              "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Pages\\RemoveStock.razor",
-              "RelativeDocumentMoniker": "Frontend\\Pages\\RemoveStock.razor",
-              "ToolTip": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Pages\\RemoveStock.razor",
-              "RelativeToolTip": "Frontend\\Pages\\RemoveStock.razor",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-23T14:29:08.871Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "Frontend\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "Frontend\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-23T18:10:06.594Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "Frontend\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Pages\\Home.razor",
-              "RelativeToolTip": "Frontend\\Pages\\Home.razor",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-23T09:25:53.897Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "SubVariant.cs",
               "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Models\\SubVariant.cs",
               "RelativeDocumentMoniker": "Frontend\\Models\\SubVariant.cs",
@@ -187,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Models\\User.cs",
               "RelativeDocumentMoniker": "Frontend\\Models\\User.cs",
@@ -199,19 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Dtos\\ProductDto.cs",
-              "RelativeDocumentMoniker": "Frontend\\Dtos\\ProductDto.cs",
-              "ToolTip": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Dtos\\ProductDto.cs",
-              "RelativeToolTip": "Frontend\\Dtos\\ProductDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T12:55:05.645Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "MainLayout.razor.css",
               "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Layout\\MainLayout.razor.css",
               "RelativeDocumentMoniker": "Frontend\\Layout\\MainLayout.razor.css",
@@ -223,19 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Program.cs",
-              "RelativeDocumentMoniker": "Frontend\\Program.cs",
-              "ToolTip": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Program.cs",
-              "RelativeToolTip": "Frontend\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T10:25:17.321Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "_Imports.razor",
               "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\_Imports.razor",
               "RelativeDocumentMoniker": "Frontend\\_Imports.razor",
@@ -244,18 +279,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-23T10:11:11.818Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "StockRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Dtos\\StockRequestDto.cs",
-              "RelativeDocumentMoniker": "Frontend\\Dtos\\StockRequestDto.cs",
-              "ToolTip": "C:\\Users\\aslam\\source\\repos\\ProductInventorySystem\\Frontend\\Frontend\\Dtos\\StockRequestDto.cs",
-              "RelativeToolTip": "Frontend\\Dtos\\StockRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T10:06:28.348Z"
             }
           ]
         }

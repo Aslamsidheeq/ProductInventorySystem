@@ -1,10 +1,50 @@
-﻿@using Frontend.Dtos
+﻿@page "/addProduct";
+@using Frontend.Dtos
+@using Frontend.Services
+@inject ProductService productService
+@inject NavigationManager navigation
+<h3>Add Product</h3>
+<EditForm Model="product" OnValidSubmit="validSubmitHandler">
+    <div class="form-group">
+        <label>Product Name :</label>
+        <InputText @bind-Value="product.ProductName"/>
+    </div>
 
+        <div>
+            <label>Variant:</label>
+        @foreach(var variant in product.Variants)
+        {
+        <label>Variant Name:</label>
+        <InputText @bind-Value="variant.VariantName" />
+        <label>Sub-variant :</label>
+            @foreach(var subvar in variant.SubVariants)
+            {
+                <label>Sub-variant name :</label>
+                <InputText @bind-Value="subvar.SubVariantName"/>
+            }
+            <button type="button" @onclick="()=>AddSubVariantInput(variant)">Add Sub-variant</button>
+        }
+        <button type="button" @onclick="AddVariantInput">Add Variant </button>
+        </div>
 
-<h3>AddProduct</h3>
-
+    <button type="submit">Add Product</button>
+</EditForm>
 
 
 @code {
 
+    ProductDto product = new ProductDto();
+    private async Task validSubmitHandler()
+    {
+        await productService.addProductService(product);
+        navigation.NavigateTo("/products");
+    }
+    private void AddVariantInput()
+    {
+        product.Variants.Add(new VariantDto());
+    }
+    private void AddSubVariantInput(VariantDto variantDto)
+    {
+        variantDto.SubVariants.Add(new SubVariantDto());
+    }
 }

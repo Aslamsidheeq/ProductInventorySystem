@@ -7,11 +7,11 @@
 <table>
     <thead>
         <tr>
-            <th>Product Name</th>
+            <th>Product</th>
             <th>Variants</th>
          </tr>
     </thead>
-    <tbody>
+    <tbody class="table-group-divider">
         @foreach(var product in products)
         {
             <tr>
@@ -24,7 +24,8 @@
                             <ul>
                                 @foreach(var subVariant in variant.SubVariants)
                                 {
-                                    <li>@subVariant.SubVariantName </li>
+                                    <li>@subVariant.SubVariantName - @stock.Stock</li>
+
                                 }
                             </ul>
                             </li>
@@ -39,7 +40,7 @@
 
 @code {
     private List<Product> products = new();
-
+    private StockRequestDto stock = new();
     public Products(string errorMessage)
     {
         this.errorMessage = errorMessage;
